@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "farmhash": "^3.0.0",
+    "socket.io": "^2.2.0",
+    "socket.io-redis": "^5.2.0"
+  }
+}
