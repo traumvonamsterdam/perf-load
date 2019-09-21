@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
-  "script": "",
+  "scripts": {
+    "start": "nodemon servers.js"
+  },
   "dependencies": {
     "express": "^4.17.1",
     "farmhash": "^3.0.0",
